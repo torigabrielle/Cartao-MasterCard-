@@ -1,0 +1,1 @@
+Cartão feito com html e css puro, o tutorial que segui foi muito útil. Olha como isso ficou lindo.
